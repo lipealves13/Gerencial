@@ -1,2 +1,2 @@
 # Gerencial
- sistema gerencial implementado em JS
+ sistema gerencial de despesas e receitas implementado em JS
